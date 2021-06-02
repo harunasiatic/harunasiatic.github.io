@@ -10,7 +10,7 @@
 
 </body>
 </html>
-<p>Here is a quote from WWF's website:</p>
+<p>GİTHUB:</p>
 <blockquote cite=https://github.com/harunasiatic>
 this is my github profile you can contact with me there
 </blockquote>
