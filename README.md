@@ -10,7 +10,4 @@
 
 </body>
 </html>
-<p>GİTHUB:</p>
-<blockquote cite=https://github.com/harunasiatic>
-this is my github profile you can contact with me there
-</blockquote>
+
